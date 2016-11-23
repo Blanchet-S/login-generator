@@ -12,10 +12,12 @@ public class LoginGeneratorTest {
         LoginService test = new LoginService(t);
 
         LoginGenerator l = new LoginGenerator(test);
-        l.generateLoginForNomAndPrenom("ROL","Jean");
+        //l.generateLoginForNomAndPrenom("ROL","Jean");
 
-        assertEquals(l.generateLoginForNomAndPrenom("Durant","Paul"),"PDUR");
-        /*assertEquals(l.generateLoginForNomAndPrenom("Roll","Jean"),"JROL1");
-        assertEquals(l.generateLoginForNomAndPrenom("Dùrant","Paul"),"PDUR");*/
+        //assertEquals(l.generateLoginForNomAndPrenom("Durant","Paul"),"PDUR");
+        //assertEquals(l.generateLoginForNomAndPrenom("Roll","Jean"),"JROL1");
+        //assertEquals(l.generateLoginForNomAndPrenom("Dùrant","Paul"),"PDUR");
+
+        assertEquals(l.generateLoginForNomAndPrenom("Ralling","Jean"),"JRAL2");
     }
 }
