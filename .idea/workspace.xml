@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed17cdd-5ae3-4533-8886-8b8e0fff1865" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/geco/PasswordGeneration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="login-generator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -563,7 +562,7 @@
       <workItem from="1479801027997" duration="1512000" />
       <workItem from="1479802558298" duration="1527000" />
       <workItem from="1479891906081" duration="2508000" />
-      <workItem from="1479894438363" duration="3617000" />
+      <workItem from="1479894438363" duration="3832000" />
     </task>
     <task id="LOCAL-00001" summary="1er commit">
       <created>1479798607190</created>
@@ -613,11 +612,19 @@
       <created>1479895690417</created>
       <updated>1479895690417</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit login generator">
+      <created>1479898071381</created>
+      <updated>1479898071381</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge branch 'testsLoginGenerator' into password_generation&#10;&#10;Conflicts:&#10;&#9;.idea/misc.xml&#10;&#9;.idea/workspace.xml&#10;">
+      <created>1479898125194</created>
+      <updated>1479898125194</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10319000" />
+    <option name="totallyTimeSpent" value="10534000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -695,7 +702,9 @@
     <MESSAGE value="fix #3" />
     <MESSAGE value="eqgeg" />
     <MESSAGE value="commit docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit docs" />
+    <MESSAGE value="commit login generator" />
+    <MESSAGE value="Merge branch 'testsLoginGenerator' into password_generation&#10;&#10;Conflicts:&#10;&#9;.idea/misc.xml&#10;&#9;.idea/workspace.xml&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'testsLoginGenerator' into password_generation&#10;&#10;Conflicts:&#10;&#9;.idea/misc.xml&#10;&#9;.idea/workspace.xml&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
