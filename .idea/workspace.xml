@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed17cdd-5ae3-4533-8886-8b8e0fff1865" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login-generator.iml" afterPath="$PROJECT_DIR$/login-generator.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="login-generator.iws" />
@@ -213,6 +211,18 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geco" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -564,7 +574,7 @@
       <workItem from="1479800707575" duration="301000" />
       <workItem from="1479801027997" duration="1512000" />
       <workItem from="1479802558298" duration="1527000" />
-      <workItem from="1479891906081" duration="1198000" />
+      <workItem from="1479891906081" duration="1280000" />
     </task>
     <task id="LOCAL-00001" summary="1er commit">
       <created>1479798607190</created>
@@ -586,11 +596,15 @@
       <created>1479892984269</created>
       <updated>1479892984269</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix #3">
+      <created>1479893124129</created>
+      <updated>1479893124129</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5392000" />
+    <option name="totallyTimeSpent" value="5474000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
