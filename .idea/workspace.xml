@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed17cdd-5ae3-4533-8886-8b8e0fff1865" name="Default" comment="">
-      <change type="DELETED" beforePath="Z:\login-generator\src\test\java\geco\AppTest.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="login-generator.iws" />
@@ -44,8 +43,8 @@
       <file leaf-file-name="LoginGenerator.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59130436" vertical-offset="102" max-vertical-offset="1241">
-              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.029565217" vertical-offset="102" max-vertical-offset="1241">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -508,7 +507,7 @@
       <workItem from="1479800707575" duration="301000" />
       <workItem from="1479801027997" duration="1512000" />
       <workItem from="1479802558298" duration="1527000" />
-      <workItem from="1479891906081" duration="1577000" />
+      <workItem from="1479891906081" duration="1725000" />
     </task>
     <task id="LOCAL-00001" summary="1er commit">
       <created>1479798607190</created>
@@ -538,11 +537,15 @@
       <created>1479893199616</created>
       <updated>1479893199616</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="blabla2">
+      <created>1479893494074</created>
+      <updated>1479893494074</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5771000" />
+    <option name="totallyTimeSpent" value="5919000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -616,7 +619,8 @@
     <MESSAGE value="commit 1er changement" />
     <MESSAGE value="fix #3" />
     <MESSAGE value="blabla" />
-    <option name="LAST_COMMIT_MESSAGE" value="blabla" />
+    <MESSAGE value="blabla2" />
+    <option name="LAST_COMMIT_MESSAGE" value="blabla2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -699,8 +703,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59130436" vertical-offset="102" max-vertical-offset="1241">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.029565217" vertical-offset="102" max-vertical-offset="1241">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
