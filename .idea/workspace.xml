@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed17cdd-5ae3-4533-8886-8b8e0fff1865" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java" afterPath="$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login-generator.iml" afterPath="$PROJECT_DIR$/login-generator.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="login-generator.iws" />
@@ -67,8 +63,8 @@
       <file leaf-file-name="LoginGeneratorTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14782609" vertical-offset="0" max-vertical-offset="575">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.47304347" vertical-offset="0" max-vertical-offset="575">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -556,7 +552,7 @@
       <workItem from="1479891906081" duration="2508000" />
       <workItem from="1479894438363" duration="3903000" />
       <workItem from="1480496899333" duration="839000" />
-      <workItem from="1480497764017" duration="2770000" />
+      <workItem from="1480497764017" duration="3202000" />
     </task>
     <task id="LOCAL-00001" summary="1er commit">
       <created>1479798607190</created>
@@ -638,11 +634,15 @@
       <created>1480498337491</created>
       <updated>1480498337491</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="commit lie #8">
+      <created>1480500557121</created>
+      <updated>1480500557121</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14214000" />
+    <option name="totallyTimeSpent" value="14646000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -726,7 +726,8 @@
     <MESSAGE value="commit blbl" />
     <MESSAGE value="#6 close #6" />
     <MESSAGE value="#7 close #7" />
-    <option name="LAST_COMMIT_MESSAGE" value="#7 close #7" />
+    <MESSAGE value="commit lie #8" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit lie #8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -919,8 +920,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14782609" vertical-offset="0" max-vertical-offset="575">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.47304347" vertical-offset="0" max-vertical-offset="575">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding />
         </state>
       </provider>
