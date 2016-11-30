@@ -20,5 +20,6 @@ public class LoginGeneratorTest {
 
         assertEquals(l.generateLoginForNomAndPrenom("Ralling","Jean"),"JRAL2");
         assertEquals(l.generateLoginForNomAndPrenom("Du","Paul"),"PDU");
+
     }
 }
