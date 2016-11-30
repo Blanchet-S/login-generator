@@ -50,21 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginGenerator.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LoginGenerator.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="491" max-vertical-offset="1428">
+            <state vertical-scroll-proportion="0.69928825" vertical-offset="491" max-vertical-offset="1428">
               <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginGeneratorTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LoginGeneratorTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47304347" vertical-offset="0" max-vertical-offset="575">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -552,7 +552,7 @@
       <workItem from="1479891906081" duration="2508000" />
       <workItem from="1479894438363" duration="3903000" />
       <workItem from="1480496899333" duration="839000" />
-      <workItem from="1480497764017" duration="3202000" />
+      <workItem from="1480497764017" duration="4129000" />
     </task>
     <task id="LOCAL-00001" summary="1er commit">
       <created>1479798607190</created>
@@ -638,11 +638,19 @@
       <created>1480500557121</created>
       <updated>1480500557121</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit workspace de merdeeeeeeeeeeeeeeeeeeeeeeee">
+      <created>1480500978364</created>
+      <updated>1480500978364</updated>
+    </task>
+    <task id="LOCAL-00023" summary="commit workspace de merdeeeeeeeeeeeeeeeeeeeeeeee">
+      <created>1480501736910</created>
+      <updated>1480501736910</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14646000" />
+    <option name="totallyTimeSpent" value="15573000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -727,7 +735,8 @@
     <MESSAGE value="#6 close #6" />
     <MESSAGE value="#7 close #7" />
     <MESSAGE value="commit lie #8" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit lie #8" />
+    <MESSAGE value="commit workspace de merdeeeeeeeeeeeeeeeeeeeeeeee" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit workspace de merdeeeeeeeeeeeeeeeeeeeeeeee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -894,22 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/geco/PasswordGeneration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="491" max-vertical-offset="1428">
-          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
@@ -918,10 +911,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geco/PasswordGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47304347" vertical-offset="0" max-vertical-offset="575">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geco/LoginGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69928825" vertical-offset="491" max-vertical-offset="1428">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
           <folding />
         </state>
       </provider>
