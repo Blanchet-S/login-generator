@@ -57,7 +57,6 @@ public class LoginGenerator {
             }
         }
         loginService.addLogin(login);
-        System.out.println(login);
         return login;
     }
 
