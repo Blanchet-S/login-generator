@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bed17cdd-5ae3-4533-8886-8b8e0fff1865" name="Default" comment="commit blbl">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    <list default="true" id="bed17cdd-5ae3-4533-8886-8b8e0fff1865" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="login-generator.iws" />
@@ -525,7 +524,7 @@
       <workItem from="1479891906081" duration="2508000" />
       <workItem from="1479894438363" duration="3903000" />
       <workItem from="1480496899333" duration="839000" />
-      <workItem from="1480497764017" duration="503000" />
+      <workItem from="1480497764017" duration="564000" />
     </task>
     <task id="LOCAL-00001" summary="1er commit">
       <created>1479798607190</created>
@@ -599,11 +598,15 @@
       <created>1480497924865</created>
       <updated>1480497924865</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="#6 close #6">
+      <created>1480498281677</created>
+      <updated>1480498281677</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11947000" />
+    <option name="totallyTimeSpent" value="12008000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -685,7 +688,8 @@
     <MESSAGE value="Merge branch 'testsLoginGenerator' into password_generation&#10;&#10;Conflicts:&#10;&#9;.idea/misc.xml&#10;&#9;.idea/workspace.xml&#10;" />
     <MESSAGE value="commit workspace" />
     <MESSAGE value="commit blbl" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit blbl" />
+    <MESSAGE value="#6 close #6" />
+    <option name="LAST_COMMIT_MESSAGE" value="#6 close #6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
